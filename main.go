@@ -78,4 +78,6 @@ func main() {
 
 	fmt.Println(var4)
 
+	// variable scope
+
 }
